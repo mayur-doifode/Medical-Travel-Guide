@@ -4,8 +4,8 @@ import mysql.connector
 import schedule
 import time
 
-sender_email = 'rameshsuresh4819@gmail.com'
-password = "Mayur@21"
+sender_email = 'YOUR_EMAIL'
+password = "YOUR_PASSWORD"
 
 db = mysql.connector.connect(
     host='localhost',
